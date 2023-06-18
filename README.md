@@ -67,7 +67,7 @@ Clone o diretório
 
 Vá no diretório do projeto
 ```bash
-  cd yellot
+  cd yellot-mobile
 ```
 
 Instale as dependências
